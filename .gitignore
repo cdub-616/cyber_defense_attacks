@@ -1,2 +1,5 @@
 # csv files
 *.csv
+
+# pickle files
+*.pkl
